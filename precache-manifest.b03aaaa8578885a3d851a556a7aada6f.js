@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Robofriends/static/media/SEGA.12a3db8b.woff"
   },
   {
-    "revision": "65860be24b2184b92320dd89b9bccf9d",
+    "revision": "eaa985f7a65e63707f76b13d0cf6c3b0",
     "url": "/Robofriends/index.html"
   }
 ];
